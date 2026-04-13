@@ -25,7 +25,7 @@ This project presents a Sales Performance Dashboard built using Google Looker St
 
 ## 📸 Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## 🔗 Live Dashboard
 
